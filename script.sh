@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the image name
-IMAGE_NAME="my-react-app"
+IMAGE_NAME="react-pdf-generate"
 
 # Build the Docker image
 echo "Building the Docker image..."
